@@ -1,0 +1,21 @@
+[Adblock Plus 1.1]
+filters-----------------------!
+addthis.com
+addthisedge.com
+connect.facebook.net
+crowdscience.com
+disqus.com
+dm5.com##body[style*="background:url"] #index_mian
+google-analytics.com
+gravity.com
+hm.baidu.com
+iperceptions.com
+likebox.php
+metrics.cnn.com
+newspulse.cnn.com/widget/json/social?
+outbrain.com
+platform.twitter.com
+plusone.js
+quantserve.com
+sharethis.com
+streamer.money.cnn.com
