@@ -19,3 +19,4 @@ plusone.js
 quantserve.com
 sharethis.com
 streamer.money.cnn.com
+assoc-amazon.com
