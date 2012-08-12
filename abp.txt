@@ -21,3 +21,4 @@ sharethis.com
 streamer.money.cnn.com
 assoc-amazon.com
 buysellads.com
+dm5.cn/*.swf
