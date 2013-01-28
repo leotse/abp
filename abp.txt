@@ -23,3 +23,4 @@ assoc-amazon.com
 buysellads.com
 dm5.cn/*.swf
 comic.kukudm.com##iframe
+2tu.cc##iframe
